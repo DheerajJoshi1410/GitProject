@@ -1,4 +1,5 @@
 This is a sample file
+This is for master
 This is for newbranch
 We are going to push this file into new remote branch
 This is to test push command for newbranch
